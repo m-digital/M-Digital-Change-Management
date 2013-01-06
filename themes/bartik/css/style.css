@@ -838,6 +838,7 @@ ul.links {
   color: #c0c0c0;
   color: rgba(255, 255, 255, 0.65);
   font-size: 0.857em;
+  border-top: 25px pink solid;
 }
 #footer-wrapper a {
   color: #fcfcfc;
