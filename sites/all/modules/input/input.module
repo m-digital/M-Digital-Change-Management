@@ -200,7 +200,7 @@ function input_form_alter(&$form, &$form_state, $form_id) {
       $form['search_block_form']['#autocomplete_path'] = 'input/search-autocomplete';
       break;
   }
-  return;
+  return; 
 }
 
 
