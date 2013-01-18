@@ -24,7 +24,7 @@ function input_menu() {
     'title' => 'Simple',
     'description' => 'Simple example using a page callback.',
     'page callback' => 'input_simple_page',
-    'access callback' => TRUE,
+    'access callback' => TRUE, 
   );
   $items['input/examples/more'] = array(
     'title' => 'More elements and attributes',
